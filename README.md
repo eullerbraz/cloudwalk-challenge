@@ -1,4 +1,4 @@
-# Projeto iDinheiro Challenge
+# Projeto CloudWalk Challenge
 
 ## Comentários do projeto
 
@@ -25,7 +25,7 @@ Para ter acesso ao projeto você pode seguir o passo abaixo.
 
 1. Explain the money flow and the information flow in the acquirer market and the role of the main players.
   
-  Answer
+O fluxo de informações segue o seguinte caminho: Após o lojista estar devidamente cadastrado em um empresa adquirente, ele já estará habilitado para receber transações com cartão de crédito ou débito. Quando o cliente insere o cartão e a senha (ou utiliza aproximação), as informações do cartão são transferidas para a empresa adquirente, está possui o papel de capturar esse pagamento, liquidar a transação caso tudo esteja correto e repassar as infomações para as bandeiras de cartões. As bandeiras são responsáveis pela segurança da transação, além de cuidar do regulamento dos cartões e repassar as informações para os bancos. Os bancos são responsáveis por autorizar ou negar a transação, de acordo com o saldo ou crédito do cliente. 
 
 2. Explain the difference between acquirer, sub-acquirer and payment gateway and how the flow explained in question 1 changes for these players.
   
