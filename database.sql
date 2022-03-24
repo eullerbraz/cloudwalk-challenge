@@ -11,7 +11,7 @@ CREATE TABLE cloudwalk_challenge.clientes(
 CREATE TABLE cloudwalk_challenge.status(
 	user_id INT,
     status VARCHAR(50),
-    data_horario_do_status VARCHAR(255),
+    data_horario_do_status TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (user_id, status),
     FOREIGN KEY (user_id)
 		REFERENCES clientes(user_id)
