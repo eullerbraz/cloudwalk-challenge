@@ -35,7 +35,7 @@ Subadquirente são intermediárias entre as adquirentes e a loja, elas geralment
 
 3. Explain what KYC (Know Your Customer) is and how it's important to the company and the entire payment industry.
 
-  Answer
+Know Your Customer é uma estratégia para segurança do negócio. Essa estratégia é regida por algumas regras que definem que a instituição deve conhecer a fundo seu cliente. Algumas informações financeiras, por exemplo, são crucias para a identificação de transações suspeitas. Além disso algumas informações do cliente ajudam a identificar exatamente qual o cliente está realizando determinada transação. 
 
 ---
 
@@ -43,5 +43,5 @@ Subadquirente são intermediárias entre as adquirentes e a loja, elas geralment
 
 1. Was there any negative number? If so, why do you think that happened?
 
-  Answer
+Não encontrei nenhum número negativo, porém encontrei alguns números muito grandes no tempo de aprovação. Acredito que isso ocorreu porque alguns clientes cadastraram-se mais de uma vez, gerando dois status idênticos na tabela de status.
 
